@@ -1,4 +1,4 @@
-# Nova Documentation App - Markdown/MDX Guide
+# Steplore Documentation App - Markdown/MDX Guide
 
 This app is designed for creating and managing documentation using Markdown (`.md`) and MDX (`.mdx`) files. It provides
 an easy way to write content, organize pages, and extend functionality with MDX.
