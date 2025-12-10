@@ -34,8 +34,8 @@ To create a new documentation page:
 
 3. **Add Frontmatter**: At the top of each Markdown file, add Frontmatter to define the page’s metadata:
     ```yaml
-   --- title:
-   "Your Page Title"
+   ---
+   title: "Your Page Title"
    metaTitle: "Your Meta Title"
    metaDescription: "A brief description of your page for SEO"
    ---
