@@ -27,7 +27,9 @@ const config = {
       '/welcome-to-steplore', // add trailing slash if enabled above
       '/getting-started',
       "/use-cases",
-      "/faq"
+      "/faq", 
+      "/terms-and-conditions",
+      "/privacy-policy"
     ],
     collapsedNav: [
       '/welcome-to-steplore', // add trailing slash if enabled above
