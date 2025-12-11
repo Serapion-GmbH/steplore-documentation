@@ -1,12 +1,6 @@
 ---
 title: "Terms and Conditions"
-metaTitle: "End-User Licence Agreement"
-metaDescription: "Version 1.0 — Provider: Serapion"
----
-
-#StepLore – Terms and Conditions (End-User Licence Agreement)
-Version 1.0 — Provider: Serapion
-
+metaTitle: "Version 1.0"
 ---
 
 ## 1. Scope of These Terms and Conditions
