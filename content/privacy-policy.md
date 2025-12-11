@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-metaTitle: "Version 1.0"
+metaTitle: "Privacy Policy Version 1.0"
 ---
 
 
