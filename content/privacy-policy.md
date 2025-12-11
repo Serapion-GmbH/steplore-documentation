@@ -1,5 +1,5 @@
 ---
-title: "StepLore Privacy Policy"
+title: "Privacy Policy"
 ---
 
 
