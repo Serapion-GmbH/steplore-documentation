@@ -1,6 +1,6 @@
 const baseTheme = {
   fonts: {
-    mono: '"SF Mono", monospace',
+    mono: '"Open Sans", monospace',
   },
 };
 
