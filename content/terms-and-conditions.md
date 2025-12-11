@@ -1,6 +1,6 @@
 ---
 title: "Terms and Conditions"
-metaTitle: "Version 1.0"
+metaTitle: "Terms and Conditions Version 1.0"
 ---
 
 ## 1. Scope of These Terms and Conditions
