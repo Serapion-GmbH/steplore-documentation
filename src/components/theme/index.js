@@ -7,7 +7,7 @@ const baseTheme = {
 const lightTheme = {
   ...baseTheme,
   colors: {
-    main: '#e2e8f0',
+    main: '#CED4DA',
     background: '#F8F9FA',
     heading: '#221F20',
     text: '#71717A',
@@ -20,7 +20,7 @@ const lightTheme = {
 const darkTheme = {
   ...baseTheme,
   colors: {
-    main: '#e2e8f0',
+    main: '#CED4DA',
     background: '#001933',
     heading: '#638dc0',
     text: '#D1D5DB',
