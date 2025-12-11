@@ -1,6 +1,6 @@
 const baseTheme = {
   fonts: {
-    mono: '"SF Mono", "Roboto Mono", Menlo, monospace',
+    mono: '"SF Mono", monospace',
   },
 };
 
@@ -8,9 +8,9 @@ const lightTheme = {
   ...baseTheme,
   colors: {
     main: '#e2e8f0',
-    background: '#ffffff',
-    heading: '#528fc9',
-    text: '#4A5568',
+    background: '#F8F9FA',
+    heading: '#221F20',
+    text: '#71717A',
     preFormattedText: '#e9eef2',
     link: '#5f8db2',
     hover: '#80b0ee',
