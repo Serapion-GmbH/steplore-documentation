@@ -7,7 +7,7 @@ const config = {
   },
   
   header: {
-    logo: 'logo StepLore.png',
+    logo: 'steplore-logo.svg',
     logoLink: 'https://step-lore.com/',
     title: '',
     githubUrl: '',
