@@ -68,7 +68,7 @@ export const baseStyles = css`
   .displayInline {
     display: inline-block;
     height: 44px;
-    width: 44px;
+    width: 175px;
   }
 
   .navBarToggle {
