@@ -1,3 +1,5 @@
+import headerLogo from './src/components/images/favicon/favicon-96x96.png';
+
 const config = {
   gatsby: {
     pathPrefix: '/steplore-documentation',
@@ -5,8 +7,9 @@ const config = {
     gaTrackingId: null,
     trailingSlash: false,
   },
+  
   header: {
-    logo: 'src/components/images/favicon/favicon-96x96.png',
+    logo: headerLogo,
     logoLink: 'https://step-lore.com/',
     title: 'StepLore',
     githubUrl: '',
@@ -62,7 +65,7 @@ const config = {
         {
           src: 'src/components/images/steplore-logo.svg',
           sizes: `512x512`,
-          type: `image/png`,
+          type: `image/svg+xml`,
         },
       ],
     },
