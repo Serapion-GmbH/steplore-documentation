@@ -17,13 +17,17 @@ const Wrapper = styled('div')`
     color: ${({ theme }) => theme.colors.text};
   }
 
-  /* Hover + Active */
-  .sideBarUL .item > a:hover,
+ /* Hover */
+  .sideBarUL .item > a:hover {
+    background-color: #CDEB78;
+    color: #221F20;
+  }
+
+  /* Active / Selected */
   .sideBarUL .item > a.active,
   .sideBarUL .item > a[aria-current='page'] {
     background-color: #CDEB78;
-    color: #221F20;
-    /* background: #F8F8F8 */
+    color: #221F20; /* 👈 force correct active text color */
   }
 
   @media only screen and (max-width: 767px) {
