@@ -23,8 +23,6 @@ const Wrapper = styled('div')`
   .sideBarUL .item > a[aria-current='page'] {
     background-color: #CDEB78;
     color: #221F20;
-  }
-
     /* background: #F8F8F8 */
   }
 
