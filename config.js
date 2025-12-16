@@ -57,7 +57,7 @@ const config = {
       theme_color: '#72688c',
       display: 'standalone',
       crossOrigin: 'use-credentials',
-      icon: 'src/components/images/steplore-logo.svg',
+      icon: 'src/components/images/favicon/favicon-96x96.png',
       icons: [
         {
           src: 'src/components/images/steplore-logo.svg',
