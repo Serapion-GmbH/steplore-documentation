@@ -292,7 +292,7 @@ export const baseStyles = css`
   }
 
   .navBarDefault {
-    background-color: #e2e8f0;
+    background-color: #F8F9FA;
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;
