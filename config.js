@@ -45,7 +45,7 @@ const config = {
     description: 'Documentation for Steplore',
     ogImage: '',
     docsLocation: '',
-    favicon: 'src/components/images/steplore-logo.svg',
+    favicon: 'src/components/images/favicon/favicon-96x96.png',
   },
   pwa: {
     enabled: true,
