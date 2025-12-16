@@ -17,9 +17,13 @@ const Wrapper = styled('div')`
     color: ${({ theme }) => theme.colors.text};
   }
 
-  .sideBarUL .item > a:hover {
+  /* Hover + Active */
+  .sideBarUL .item > a:hover,
+  .sideBarUL .item > a.active,
+  .sideBarUL .item > a[aria-current='page'] {
     background-color: #CDEB78;
-    color: #221F20 !important;
+    color: #221F20;
+  }
 
     /* background: #F8F8F8 */
   }
