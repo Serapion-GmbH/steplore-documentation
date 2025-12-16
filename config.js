@@ -6,7 +6,7 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: '/src/components/images/steplore-logo.svg',
+    logo: 'src/components/images/favicon/favicon-96x96.png',
     logoLink: 'https://step-lore.com/',
     title: 'StepLore',
     githubUrl: '',
