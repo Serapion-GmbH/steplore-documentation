@@ -79,7 +79,7 @@ const StyledSwitch = styled('div')`
   }
 `;
 
-export const DarkModeSwitch = ({ isDarkThemeActive, toggleActiveTheme }) => (
+/*export const DarkModeSwitch = ({ isDarkThemeActive, toggleActiveTheme }) => (
   <StyledSwitch>
     <label id="switch" className="switch">
       <input
@@ -91,4 +91,4 @@ export const DarkModeSwitch = ({ isDarkThemeActive, toggleActiveTheme }) => (
       <span className="slider round"></span>
     </label>
   </StyledSwitch>
-);
+);*/
