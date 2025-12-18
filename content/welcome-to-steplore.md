@@ -1,148 +1,69 @@
 ---
 title: "Welcome To StepLore"
-metaTitle: "Welcome to StepLore - Automated Documentation Platform"
+metaTitle: "StepLore — Where guidance becomes lore! Structured by AI."
 metaDescription: "Learn about StepLore's automated documentation and video generation capabilities"
 ---
 
-# Welcome to StepLore
+# Welcome To StepLore
 
-The main idea of the project is to create a web application that can automatically generate video and documentation
-based on the user's demo while using another application.
+StepLore is your **AI-powered assistant** for creating professional documentation — automatically.
 
-The user will be able to start the documentation creation process, then switch to their application and perform the
-actions for which they want to generate documentation or a demo.
+Record any workflow in your browser and StepLore transforms your actions into beautifully structured guides, complete with screenshots, step-by-step descriptions, and optional video with audio narration.
 
-The application will be able to create Confluence documentation, a PowerPoint presentation, a PDF, or just HTML.
-Additionally, the user will receive a video demo.
+![StepLore](components/images/1.png)
 
-## How It Works
+Perfect for **onboarding, support, tutorials, QA processes, SOPs, product documentation**, and sharing workflows with your team.
 
-### 1. Start Recording
 
-[PLACEHOLDER: Explain the process of initiating a recording session]
+---
 
-### 2. Perform Your Workflow
+## ✨ Key Features
 
-[PLACEHOLDER: Describe what happens while the user performs actions in their application]
+- **Record your workflow in seconds**  
+  Every click, action, and screen interaction is captured automatically.
 
-### 3. Automatic Capture
+- **Automatic documentation generation**  
+  Steps, titles, descriptions, and screenshots are created by AI.
 
-[PLACEHOLDER: Explain what StepLore captures - screenshots, actions, clicks, text input, etc.]
+- **AI video creation**  
+  Generate a polished walkthrough video with voice-over narration.
 
-### 4. Generate Documentation
+- **User Stories & Guide Templates**  
+  Create ready-to-use user stories and structured guides for product teams.
 
-[PLACEHOLDER: Describe the generation process and AI/automation involved]
+- **Export & share**  
+  Share guides easily (PDF export and advanced editing coming soon).
 
-### 5. Export & Share
+- **Free plan available**  
+  Create up to **3 guides** with full step and video generation included.
 
-[PLACEHOLDER: Explain export options and sharing capabilities]
+---
 
-## Key Features
+## 🚀 Coming Soon
 
-### Automatic Screen Recording
+- Edit and adjust steps for better clarity  
+- Regenerate step titles and descriptions  
+- PDF export  
+- Improved sharing features  
 
-[PLACEHOLDER: Detail the recording capabilities - full screen, window capture, region selection, etc.]
+### Premium Features (Upcoming)
 
-### Intelligent Step Detection
+- Advanced editing capabilities  
+- Step & description regeneration  
+- Unlimited guides  
 
-[PLACEHOLDER: Explain how StepLore identifies discrete steps and actions]
+---
 
-### Multi-Format Export
+## Why StepLore?
 
-Export your documentation to multiple formats:
+StepLore is designed for anyone who wants to turn **everyday work into reusable knowledge** — instantly, consistently, and without manual effort.
 
-- **Confluence** - [PLACEHOLDER: Describe Confluence integration and output]
-- **PowerPoint** - [PLACEHOLDER: Describe PPT generation features]
-- **PDF** - [PLACEHOLDER: Describe PDF output capabilities]
-- **HTML** - [PLACEHOLDER: Describe HTML export and styling options]
-- **Video Demo** - [PLACEHOLDER: Describe video generation and editing features]
-
-### Smart Annotations
-
-[PLACEHOLDER: Explain automatic or manual annotation features]
-
-### Template System
-
-[PLACEHOLDER: Describe the template system for customizing output]
-
-### Collaboration Features
-
-[PLACEHOLDER: Explain team collaboration capabilities]
-
-## Technical Capabilities
-
-### Platform Support
-
-[PLACEHOLDER: List supported operating systems and browsers]
-
-### Recording Options
-
-[PLACEHOLDER: Detail recording configuration options]
-
-### Integration APIs
-
-[PLACEHOLDER: Describe available APIs and webhooks]
-
-### Security & Privacy
-
-[PLACEHOLDER: Explain security features, data handling, and privacy measures]
-
-## Getting Started
-
-Ready to try StepLore? Here's what to do next:
-
-1. **[Install StepLore](/getting-started#installation)** - Get the application installed on your system
-2. **[Configure Your Settings](/getting-started#configuration)** - Set up your preferences
-3. **[Create Your First Doc](/getting-started#your-first-documentation)** - Follow our tutorial
-4. **[Explore Use Cases](/use-cases)** - See how others use StepLore
-
-## What Makes StepLore Different?
-
-### vs. Manual Documentation
-
-[PLACEHOLDER: Compare to traditional manual documentation methods]
-
-### vs. Screen Recording Tools
-
-[PLACEHOLDER: Compare to basic screen recording software]
-
-### vs. Screenshot Tools
-
-[PLACEHOLDER: Compare to screenshot and annotation tools]
-
-## Real-World Examples
-
-### Example 1: Software Tutorial
-
-[PLACEHOLDER: Link to or embed example output]
-
-### Example 2: Process Documentation
-
-[PLACEHOLDER: Link to or embed example output]
-
-### Example 3: Product Demo
-
-[PLACEHOLDER: Link to or embed example output]
-
-## Community & Resources
 
 ### Documentation
 
 - [Getting Started Guide](/getting-started)
 - [FAQ](/faq)
-- [PLACEHOLDER: Link to API docs]
-- [PLACEHOLDER: Link to troubleshooting]
+- [Privacy Policy](/privacy-policy)
+- [Terms and Conditions](/terms-and-conditions)
 
-### Connect with Us
 
-- [PLACEHOLDER: GitHub repository link]
-- [PLACEHOLDER: Discord/community forum link]
-- [PLACEHOLDER: Support email or contact form]
-
-### Contributing
-
-[PLACEHOLDER: Information about contributing to the project]
-
----
-
-**Note for contributors:** This page provides an overview of the entire platform. Keep explanations clear and link to detailed documentation pages for deep dives.
