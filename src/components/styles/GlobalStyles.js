@@ -328,12 +328,11 @@ export const baseStyles = css`
 
   .navBarBrand img {
     margin-right: 6px;
-    height: 32px;      /* pick what looks good: 28–40px */
-    width: auto;       /* prevents stretching */
-    max-width: 160px;  /* optional, prevents huge wide logos */
+    height: 32px;      
+    width: auto;       
+    max-width: 160px; 
     object-fit: contain;
-    display: block;
-   /* display: inline-block;*/
+    display: inline-block;
 
   }
 
