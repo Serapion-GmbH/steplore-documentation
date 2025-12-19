@@ -11,7 +11,7 @@ Record any workflow in your browser and StepLore transforms your actions into be
 ![StepLore](/src/components/images/1.png)
 
 Perfect for **onboarding, support, tutorials, QA processes, SOPs, product documentation**, and sharing workflows with your team.
-
+StepLore is designed for anyone who wants to turn **everyday work into reusable knowledge** — instantly, consistently, and without manual effort.
 
 ---
 
@@ -35,7 +35,13 @@ Perfect for **onboarding, support, tutorials, QA processes, SOPs, product docume
 - **Free plan available**  
   Create up to **3 guides** with full step and video generation included.
 
----
+
+
+![StepLore](/src/components/images/2.png)
+![StepLore](/src/components/images/3.png)
+![StepLore](/src/components/images/4.png)
+![StepLore](/src/components/images/5.png)
+
 
 ## 🚀 Coming Soon
 
@@ -51,10 +57,6 @@ Perfect for **onboarding, support, tutorials, QA processes, SOPs, product docume
 - Unlimited guides  
 
 ---
-
-## Why StepLore?
-
-StepLore is designed for anyone who wants to turn **everyday work into reusable knowledge** — instantly, consistently, and without manual effort.
 
 
 ### Documentation
