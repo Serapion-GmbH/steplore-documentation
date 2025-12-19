@@ -7,7 +7,6 @@ import Loadable from 'react-loadable';
 
 import config from '../../config.js';
 import LoadingProvider from './mdxComponents/loading';
-// import { DarkModeSwitch } from './DarkModeSwitch';
 import Logo from '../components/images/steplore-logo.svg';
 import Sidebar from './sidebar';
 
@@ -179,12 +178,6 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                     </GitHubButton>
                   </li>
                 ) : null}
-                <li>
-                  <DarkModeSwitch
-                    isDarkThemeActive={isDarkThemeActive}
-                    toggleActiveTheme={toggleActiveTheme}
-                  />
-                </li>
               </ul>
             </div>
           </nav>
