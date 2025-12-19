@@ -4,8 +4,6 @@ metaTitle: "StepLore — Where guidance becomes lore! Structured by AI."
 metaDescription: "Learn about StepLore's automated documentation and video generation capabilities"
 ---
 
-# Welcome To StepLore
-
 StepLore is your **AI-powered assistant** for creating professional documentation — automatically.
 
 Record any workflow in your browser and StepLore transforms your actions into beautifully structured guides, complete with screenshots, step-by-step descriptions, and optional video with audio narration.
