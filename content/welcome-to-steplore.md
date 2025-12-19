@@ -8,8 +8,7 @@ StepLore is your **AI-powered assistant** for creating professional documentatio
 
 Record any workflow in your browser and StepLore transforms your actions into beautifully structured guides, complete with screenshots, step-by-step descriptions, and optional video with audio narration.
 
-![StepLore](static/logoStepLore.png)
-![StepLore](src/components/images/1.png)
+![StepLore](/src/components/images/1.png)
 
 Perfect for **onboarding, support, tutorials, QA processes, SOPs, product documentation**, and sharing workflows with your team.
 
