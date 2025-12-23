@@ -131,8 +131,6 @@ A living knowledge base that grows with your organization.
 
 ---
 
-## Summary
-
 StepLore is ideal for anyone who needs to **document workflows once and reuse them everywhere** — support teams, product teams, HR, QA, and operations.
 
 Record it once.  
