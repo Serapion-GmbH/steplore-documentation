@@ -25,7 +25,7 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-     // '/welcome-to-steplore', // add trailing slash if enabled above
+      '/welcome-to-steplore', // add trailing slash if enabled above
       '/getting-started',
       "/use-cases",
       "/faq", 
@@ -33,7 +33,7 @@ const config = {
       "/privacy-policy"
     ],
     collapsedNav: [
-      '/welcome-to-steplore', // add trailing slash if enabled above
+     // '/welcome-to-steplore', // add trailing slash if enabled above
     ],
     links: [{ text: '', link: '' }],
     frontLine: false,
