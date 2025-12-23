@@ -33,7 +33,7 @@ const config = {
       "/privacy-policy"
     ],
     collapsedNav: [
-   //   '/welcome-to-steplore', // add trailing slash if enabled above
+      '/welcome-to-steplore', // add trailing slash if enabled above
     ],
     links: [{ text: '', link: '' }],
     frontLine: false,
