@@ -17,7 +17,7 @@ metaTitle: "Terms and Conditions Version 1.0"
 
 2. This Agreement applies exclusively. Conflicting or deviating customer terms do not apply unless accepted in writing.
 
-3. This Agreement applies only to Customers who are entrepreneurs (§14 BGB), legal entities under public law, or special funds under public law.
+3. This Agreement applies only to Customers who are entrepreneurs (Section 14 German Civil Code), legal entities under public law, or special funds under public law.
 
 ---
 
@@ -62,14 +62,14 @@ Availability includes:
 - Scheduled maintenance
 
 ### 4.3 Maintenance Window
-Maintenance may occur every Thursday and/or Friday at 07:00 CET.
+Maintenance may occur any working day between 08:00 - 18:00 CET.
 
 ---
 
 ## 5. Free Trial, Contract Term, and Termination
 
 ### 5.1 Free Trial
-Customers may use StepLore free for one month or longer if listed as free.
+Customers may use StepLore free as long its listed as free.
 
 ### 5.2 Contract Term
 Contracts renew automatically unless terminated.
@@ -95,11 +95,11 @@ Customers must:
 - Prevent unauthorized access to StepLore
 - Maintain required technical environments
 - Ensure authorized users are trained
-- Ensure third-party IP rights are respected
+- Ensure third-party intellectual property rights are respected
 - Inform employees of relevant data processing
 - Use malware-free files
 - Transmit data securely where applicable
-- Ensure authorized users follow this Agreement
+- Ensure authorized users comply with this Agreement
 
 Customer acknowledges that StepLore may record workflow actions, screenshots, and metadata necessary for generating documentation.
 
@@ -118,26 +118,34 @@ Serapion is not liable for data loss caused by missing Customer backups.
 Serapion retains all intellectual property rights to StepLore.
 
 ### 9.2 License Grant
-Customer receives a limited, non-exclusive, non-transferable, non-sublicensable license to use StepLore.
+Customer receives a limited, non-exclusive, non-transferable, non-sublicensable license to use StepLore in accordance with this Agreement.
 
 ### 9.3 Restrictions
 Customer may not:
 - Transfer access to third parties
 - Reverse engineer or modify StepLore
-- Circumvent usage limits
+- Circumvent usage limits or technical safeguards
 
 ---
 
-## 10. Warranty
+## 10. Fair Usage Policy for Token and AI Usage
 
-StepLore will substantially conform to its functional description at the time of provision.
+### 10.1 Fair Usage Principle
+StepLore uses computational resources and third-party AI models that rely on token-based usage. All plans are subject to a fair usage principle, even where no explicit token limit is displayed.
 
-Customers must:
-- Report defects immediately
-- Provide reproducible details
-- Cooperate with Serapion during diagnosis
+### 10.2 Excessive Usage
+If Serapion determines, at its reasonable discretion, that a Customer is using an excessive amount of tokens or AI resources that significantly exceeds normal or intended usage patterns, Serapion reserves the right to:
 
-Warranty claims expire one year after software provision.
+- Contact the Customer to discuss usage patterns
+- Require the Customer to upgrade to an enterprise or custom plan
+- Introduce usage limits or throttling
+- Temporarily suspend AI-related features until an agreement is reached
+
+### 10.3 Enterprise Classification
+Excessive or systematic high-volume usage may be considered indicative of enterprise-level use. In such cases, Serapion has the right to classify the Customer as an enterprise customer and propose appropriate commercial terms.
+
+### 10.4 No Circumvention
+Customers may not attempt to circumvent usage limits, monitoring mechanisms, or fair usage safeguards.
 
 ---
 
@@ -177,30 +185,24 @@ Customer acknowledges:
 
 ---
 
-## 13. Chrome Extension Permissions and Screen Capture
+## 13. Exported Materials and Usage Restrictions
 
-### 13.1 Recording Functionality
-The StepLore Chrome extension may:
-- Capture visible page content
-- Detect user actions such as clicks or input
-- Capture screenshots needed for guide creation
-- Read relevant DOM elements for generating steps
+### 13.1 Private Use Only
+All materials exported from StepLore, including but not limited to guides, screenshots, videos, PDFs, and other documentation ("Exported Materials"), are licensed for private, internal, or personal use only.
 
-Recording occurs only when initiated by the user.
+### 13.2 Prohibited Commercial Use
+Exported Materials may not be:
+- Sold or resold
+- Licensed or sublicensed
+- Used as part of a commercial product or service
+- Distributed to third parties for commercial purposes
+- Used for training, consulting, or resale offerings
 
-### 13.2 User Consent
-By installing the extension, Customer consents to:
-- Processing visible content from active browser tabs
-- Secure transmission of captured data to Serapion for documentation generation
-- Use of captured content strictly for workflow and guide creation
+### 13.3 No Redistribution
+Exported Materials may not be publicly shared, published, or redistributed outside the Customer’s private or internal environment without prior written consent from Serapion.
 
-### 13.3 Restrictions
-The extension does not:
-- Capture background tabs
-- Access system files
-- Capture password or payment fields
-
-Customer is responsible for avoiding capture of confidential or legally protected information.
+### 13.4 Ownership
+Serapion retains all intellectual property rights in and to the Exported Materials, including AI-generated components.
 
 ---
 
@@ -211,11 +213,23 @@ A free plan may be offered with limited functionality.
 
 ### 14.2 Premium Features
 Premium plans may include:
+- All Free Plan features included
 - Unlimited guides
-- PDF export
-- Video generation
-- Step regeneration
-- Advanced editing tools
+- Watermark-free exports (PDF and video)
+- Advanced editing suite
+
+Pricing is listed on the StepLore website.
+
+
+### 14.3 Enterprise Features
+Premium plans may include:
+- Shared team workspace
+- Analytics dashboard
+- Team collaboration
+- SSO & security controls
+- Zendesk, Intercom integrations
+- Dedicated account management
+- And more
 
 Pricing is listed on the StepLore website.
 
@@ -227,7 +241,7 @@ Billing is performed directly by Serapion unless otherwise specified.
 ## 15. Liability
 
 1. Both parties are liable for intentional or grossly negligent damages.
-2. Liability for simple negligence is limited to USD 10,000 per incident.
+2. Liability for simple negligence is limited to EUR 10,000 per incident.
 3. Liability for lost profits is excluded.
 4. Serapion is not liable for data loss if Customer fails to perform adequate backups.
 5. Statutory liability remains unaffected.
@@ -285,3 +299,4 @@ Serapion may reference Customer’s name and logo for marketing unless Customer 
 ---
 
 End of Terms and Conditions
+
