@@ -20,6 +20,13 @@ const plugins = [
     }
   },
   {
+    resolve: "gatsby-source-filesystem",
+    options: {
+      name: "images",
+      path: `${__dirname}/static/images`,
+    }
+  },
+  {
     resolve: 'gatsby-plugin-mdx',
     options: {
       gatsbyRemarkPlugins: [

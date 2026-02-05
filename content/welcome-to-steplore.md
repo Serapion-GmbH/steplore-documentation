@@ -8,7 +8,7 @@ StepLore is your **AI-powered assistant** for creating professional documentatio
 
 Record any workflow in your browser and StepLore transforms your actions into beautifully structured guides, complete with screenshots, step-by-step descriptions, and optional video with audio narration.
 
-![StepLore](/src/components/images/1.png)
+![StepLore](/images/1.png)
 
 Perfect for **onboarding, support, tutorials, QA processes, SOPs, product documentation**, and sharing workflows with your team.
 StepLore is designed for anyone who wants to turn **everyday work into reusable knowledge** — instantly, consistently, and without manual effort.
@@ -17,44 +17,44 @@ StepLore is designed for anyone who wants to turn **everyday work into reusable 
 
 ## ✨ Key Features
 
-- **Record your workflow in seconds**  
+- **Record your workflow in seconds**
   Every click, action, and screen interaction is captured automatically.
 
-- **Automatic documentation generation**  
+- **Automatic documentation generation**
   Steps, titles, descriptions, and screenshots are created by AI.
 
-- **AI video creation**  
+- **AI video creation**
   Generate a polished walkthrough video with voice-over narration.
 
-- **User Stories & Guide Templates**  
+- **User Stories & Guide Templates**
   Create ready-to-use user stories and structured guides for product teams.
 
-- **Export & share**  
+- **Export & share**
   Share guides easily (PDF export and advanced editing coming soon).
 
-- **Free plan available**  
+- **Free plan available**
   Create up to **3 guides** with full step and video generation included.
 
 
 
-![StepLore](/src/components/images/2.png)
-![StepLore](/src/components/images/3.png)
-![StepLore](/src/components/images/4.png)
-![StepLore](/src/components/images/5.png)
+![StepLore](/images/2.png)
+![StepLore](/images/3.png)
+![StepLore](/images/4.png)
+![StepLore](/images/5.png)
 
 
 ## 🚀 Coming Soon
 
-- Edit and adjust steps for better clarity  
-- Regenerate step titles and descriptions  
-- PDF export  
-- Improved sharing features  
+- Edit and adjust steps for better clarity
+- Regenerate step titles and descriptions
+- PDF export
+- Improved sharing features
 
 ### Premium Features (Upcoming)
 
-- Advanced editing capabilities  
-- Step & description regeneration  
-- Unlimited guides  
+- Advanced editing capabilities
+- Step & description regeneration
+- Unlimited guides
 
 ---
 
