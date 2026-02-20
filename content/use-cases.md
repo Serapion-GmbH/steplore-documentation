@@ -4,7 +4,6 @@ metaTitle: "Steplore Use Cases"
 metaDescription: "Discover how different teams use Steplore to streamline their documentation"
 ---
 
-# Steplore Use Cases
 
 Steplore helps teams turn real workflows into clear, reusable documentation — automatically.  
 Below are practical use cases with **real examples** of how Steplore can be used in everyday work.
