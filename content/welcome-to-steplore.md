@@ -1,12 +1,12 @@
 ---
-title: "Welcome To StepLore"
-metaTitle: "StepLore — Where guidance becomes lore! Structured by AI."
-metaDescription: "Learn about StepLore's automated documentation and video generation capabilities"
+title: "Welcome To Steplore"
+metaTitle: "Steplore — Where guidance becomes lore! Structured by AI."
+metaDescription: "Learn about Steplore's automated documentation and video generation capabilities"
 ---
 
-StepLore is an AI-powered browser assistant that transforms real user workflows into structured, professional documentation — instantly.
+Steplore is an AI-powered browser assistant that transforms real user workflows into structured, professional documentation — instantly.
 
-Instead of manually writing guides, taking screenshots, and recording videos, you simply perform your process once. StepLore captures every click and interaction and automatically generates:
+Instead of manually writing guides, taking screenshots, and recording videos, you simply perform your process once. Steplore captures every click and interaction and automatically generates:
 
 - Step-by-step structured guides  
 - Clean screenshots for each action  
@@ -16,7 +16,7 @@ Instead of manually writing guides, taking screenshots, and recording videos, yo
 No manual formatting. No copy-pasting. No editing tools required.
 
 
-![StepLore](images/1.png)
+![Steplore](images/1.png)
 
 ---
 
@@ -45,7 +45,7 @@ No manual formatting. No copy-pasting. No editing tools required.
 Each interaction is captured and grouped into logical documentation steps.
 
 ### 2. AI Content Generation
-StepLore generates:
+Steplore generates:
 - Step titles  
 - Descriptions  
 - Guide summaries  
@@ -66,7 +66,7 @@ Documentation reflects actual usage — reducing inconsistencies between documen
 
 ## Privacy & Permissions
 
-StepLore records user interactions only during active recording sessions.
+Steplore records user interactions only during active recording sessions.
 
 The extension requires:
 - Access to browser tabs (to capture workflow steps)
