@@ -4,57 +4,76 @@ metaTitle: "StepLore — Where guidance becomes lore! Structured by AI."
 metaDescription: "Learn about StepLore's automated documentation and video generation capabilities"
 ---
 
-StepLore is your **AI-powered assistant** for creating professional documentation — automatically.
+StepLore is an AI-powered browser assistant that transforms real user workflows into structured, professional documentation — instantly.
 
-Record any workflow in your browser and StepLore transforms your actions into beautifully structured guides, complete with screenshots, step-by-step descriptions, and optional video with audio narration.
+Instead of manually writing guides, taking screenshots, and recording videos, you simply perform your process once. StepLore captures every click and interaction and automatically generates:
+
+- Step-by-step structured guides  
+- Clean screenshots for each action  
+- Clear titles and descriptions written by AI  
+- Optional AI-generated video with voice-over narration  
+
+No manual formatting. No copy-pasting. No editing tools required.
+
 
 ![StepLore](images/1.png)
 
-Perfect for **onboarding, support, tutorials, QA processes, SOPs, product documentation**, and sharing workflows with your team.
-StepLore is designed for anyone who wants to turn **everyday work into reusable knowledge** — instantly, consistently, and without manual effort.
+---
+
+## Built For
+
+- Support Teams  
+- Product & Engineering  
+- Operations  
+- HR & Onboarding  
+- QA Teams  
+- Customer Success  
+- Internal Knowledge Management  
+
+## The Outcome
+
+✔ Faster documentation creation  
+✔ Consistent and standardized guides  
+✔ Reduced repetitive explanations  
+✔ Faster onboarding and support resolution  
+✔ Professional documentation without manual effort  
+
+
+## Core Features
+
+### 1. Automatic Step Detection
+Each interaction is captured and grouped into logical documentation steps.
+
+### 2. AI Content Generation
+StepLore generates:
+- Step titles  
+- Descriptions  
+- Guide summaries  
+
+Ensuring clarity and consistency across documentation.
+
+### 3. Screenshot Capture
+Every step includes a clean visual reference of the UI state.
+
+### 4. AI Video Generation
+Automatically generate a walkthrough video with voice-over narration based on recorded steps.
+
+### 5. Workflow-Based Documentation
+Documentation reflects actual usage — reducing inconsistencies between documentation and product behavior.
+
 
 ---
 
-## ✨ Key Features
+## Privacy & Permissions
 
-- **Record your workflow in seconds**
-  Every click, action, and screen interaction is captured automatically.
+StepLore records user interactions only during active recording sessions.
 
-- **Automatic documentation generation**
-  Steps, titles, descriptions, and screenshots are created by AI.
+The extension requires:
+- Access to browser tabs (to capture workflow steps)
+- Screenshot capability (to generate documentation visuals)
 
-- **AI video creation**
-  Generate a polished walkthrough video with voice-over narration.
+Recording starts only after explicit user action and stops when the user clicks **Stop Recording**.
 
-- **User Stories & Guide Templates**
-  Create ready-to-use user stories and structured guides for product teams.
-
-- **Export & share**
-  Share guides easily (PDF export and advanced editing coming soon).
-
-- **Free plan available**
-  Create up to **3 guides** with full step and video generation included.
-
-
-
-![StepLore](images/2.png)
-![StepLore](images/3.png)
-![StepLore](images/4.png)
-![StepLore](images/5.png)
-
-
-## 🚀 Coming Soon
-
-- Edit and adjust steps for better clarity
-- Regenerate step titles and descriptions
-- PDF export
-- Improved sharing features
-
-### Premium Features (Upcoming)
-
-- Advanced editing capabilities
-- Step & description regeneration
-- Unlimited guides
 
 ---
 
