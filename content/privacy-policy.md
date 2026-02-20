@@ -3,8 +3,6 @@ title: "Privacy Policy"
 metaTitle: "Privacy Policy Version 1.0"
 ---
 
-
-# Privacy Policy
 Last updated: December 2025
 
 Steplore is a browser extension developed by Serapion GmbH. This Privacy Policy explains how the Steplore extension collects, uses, stores, and protects your data when you use the product.
