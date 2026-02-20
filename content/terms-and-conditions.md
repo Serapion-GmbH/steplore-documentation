@@ -298,5 +298,15 @@ Serapion may reference Customer’s name and logo for marketing unless Customer 
 
 ---
 
+## 22. Promotional Offers
+
+Steplore may, from time to time, offer time-limited promotional pricing, discounts, or early access campaigns subject to separate Promotional Terms.
+
+Such promotions may include eligibility requirements, duration limits, or special pricing conditions.
+
+In the event of any inconsistency between these Terms and applicable Promotional Terms, the Promotional Terms shall govern for the duration of the relevant promotion.
+
+---
+
 End of Terms and Conditions
 
