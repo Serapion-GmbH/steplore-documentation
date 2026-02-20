@@ -86,7 +86,8 @@ This promotion is governed by the laws applicable to Steplore’s registered ent
 
 If any provision of these Promotion Terms is found invalid or unenforceable, the remaining provisions shall remain in full force and effect.
 
-For questions regarding this promotion, please contact: [Insert Support Email]
+For questions regarding this promotion, please contact: info@stepl-lore.com
+
 ---
 
 End of Steplore Premium Early Access Promotion Terms
