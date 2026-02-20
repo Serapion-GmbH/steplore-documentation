@@ -30,6 +30,7 @@ const config = {
       "/use-cases",
       "/faq", 
       "/terms-and-conditions",
+      "/premium-early-access-promotion-terms",
       "/privacy-policy"
     ],
     collapsedNav: [
