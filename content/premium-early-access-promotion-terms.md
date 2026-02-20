@@ -3,8 +3,6 @@ title: "Steplore Premium Early Access Promotion Terms"
 metaTitle: "Steplore Premium Early Access Promotion Terms 1.0"
 ---
 
-# Steplore Premium Early Access Promotion Terms
-
 Last Updated: 20.02.2026
 
 These Premium Early Access Promotion Terms ("Promotion Terms") govern participation in the Steplore 50% Premium Discount campaign.
