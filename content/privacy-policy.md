@@ -7,15 +7,15 @@ metaTitle: "Privacy Policy Version 1.0"
 # Privacy Policy
 Last updated: December 2025
 
-StepLore is a browser extension developed by Serapion GmbH. This Privacy Policy explains how the StepLore extension collects, uses, stores, and protects your data when you use the product.
+Steplore is a browser extension developed by Serapion GmbH. This Privacy Policy explains how the Steplore extension collects, uses, stores, and protects your data when you use the product.
 
-By installing or using StepLore, you agree to the practices described below.
+By installing or using Steplore, you agree to the practices described below.
 
 ---
 
 ## 1. Information We Collect
 
-During active recording initiated by the user, StepLore may collect the following information:
+During active recording initiated by the user, Steplore may collect the following information:
 
 ### 1.1 Content Visible in the Browser
 - Screenshots of your current tab  
@@ -33,7 +33,7 @@ During active recording initiated by the user, StepLore may collect the followin
 - Performance and diagnostic data  
 
 Important:  
-StepLore does not collect any information outside of an active recording session initiated by the user.
+Steplore does not collect any information outside of an active recording session initiated by the user.
 
 ---
 
@@ -53,17 +53,17 @@ We do not use collected data for advertising, profiling, or resale.
 
 ## 3. Data Sharing and Third Parties
 
-- StepLore does not sell or share your data with third-party advertisers.  
+- Steplore does not sell or share your data with third-party advertisers.  
 - Your data may be processed by trusted sub-processors required to provide the service (for example, cloud hosting or AI model processing).  
 - All sub-processors follow GDPR-level security standards.  
 
-No data is transferred for purposes unrelated to the core functionality of StepLore.
+No data is transferred for purposes unrelated to the core functionality of Steplore.
 
 ---
 
 ## 4. Data Storage and Security
 
-Your data is encrypted in transit and at rest when stored in the StepLore backend.
+Your data is encrypted in transit and at rest when stored in the Steplore backend.
 
 We implement:
 - Secure HTTPS endpoints  
@@ -91,7 +91,7 @@ Requests can be made via email to: info@step-lore.com
 
 ## 6. Children's Privacy
 
-StepLore is not intended for children under the age of 16.  
+Steplore is not intended for children under the age of 16.  
 We do not knowingly collect data from minors.
 
 ---
