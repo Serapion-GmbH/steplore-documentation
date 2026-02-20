@@ -1,20 +1,20 @@
 ---
 title: "Getting Started"
-metaTitle: "Getting Started with StepLore"
-metaDescription: "Quick start guide to begin using StepLore"
+metaTitle: "Getting Started with Steplore"
+metaDescription: "Quick start guide to begin using Steplore"
 ---
 
-# Getting Started with StepLore
+# Getting Started with Steplore
 
 Create step-by-step guides and videos automatically — just by doing your work.
 
-StepLore helps you turn any workflow into instant documentation. No writing, no screenshots, no video editing. Simply record your actions, and StepLore takes care of the rest.
+Steplore helps you turn any workflow into instant documentation. No writing, no screenshots, no video editing. Simply record your actions, and Steplore takes care of the rest.
 
 ---
 
-## Step 1: Create Your StepLore Account
+## Step 1: Create Your Steplore Account
 
-<!-- IMAGE: StepLore Create Account / Signup Screen -->
+<!-- IMAGE: Steplore Create Account / Signup Screen -->
 
 1. Open: https://auth.step-lore.com/
 2. Register using your email and password
@@ -25,14 +25,14 @@ You are now ready to start creating guides.
 
 ---
 
-## Step 2: Install the StepLore Browser Extension
+## Step 2: Install the Steplore Browser Extension
 
-<!-- IMAGE: StepLore Chrome Extension / Browser Extension UI -->
+<!-- IMAGE: Steplore Chrome Extension / Browser Extension UI -->
 
-1. Install the **StepLore** browser extension from the Chrome Web Store
+1. Install the **Steplore** browser extension from the Chrome Web Store
 2. Pin the extension to your browser toolbar for quick access
 
-> StepLore works directly in your browser — no additional software required.
+> Steplore works directly in your browser — no additional software required.
 
 ---
 
@@ -42,28 +42,28 @@ You are now ready to start creating guides.
 
 1. Navigate to the website, web app, or tool you want to document
 2. Make sure the page is fully loaded
-3. Click the **StepLore extension icon** in your browser
+3. Click the **Steplore extension icon** in your browser
 
 ---
 
 ## Step 4: Describe Your Guide and Start Recording
 
-<!-- IMAGE: StepLore "Describe your guide" Modal -->
+<!-- IMAGE: Steplore "Describe your guide" Modal -->
 
 1. Enter a short description of what this guide will show  
    _Example: "How to share a document in Figma"_
 2. Click **Start recording**
 
-StepLore is now capturing your workflow.
+Steplore is now capturing your workflow.
 
 ---
 
 ## Step 5: Walk Through Your Process
 
-<!-- IMAGE: StepLore Floating Recording Control / Steps Counter -->
+<!-- IMAGE: Steplore Floating Recording Control / Steps Counter -->
 
 - Perform your workflow as you normally would
-- StepLore automatically detects:
+- Steplore automatically detects:
   - Clicks
   - Navigation
   - UI interactions
@@ -77,9 +77,9 @@ When finished, click **Stop**.
 
 ## Step 6: Preview Your Guide (AI Does the Work)
 
-<!-- IMAGE: StepLore Guide Preview / Generated Steps and Video -->
+<!-- IMAGE: Steplore Guide Preview / Generated Steps and Video -->
 
-After stopping the recording, StepLore automatically:
+After stopping the recording, Steplore automatically:
 
 - Generates structured steps
 - Writes step titles and descriptions
@@ -93,7 +93,7 @@ Your documentation is instantly ready.
 
 ## Step 7: Edit, Preview, and Share
 
-<!-- IMAGE: StepLore Guide Editor / Advanced Editing UI -->
+<!-- IMAGE: Steplore Guide Editor / Advanced Editing UI -->
 
 From the guide editor you can:
 
@@ -105,7 +105,7 @@ From the guide editor you can:
 
 ---
 
-## What You Get with StepLore
+## What You Get with Steplore
 
 - Instant step-by-step documentation
 - AI-generated videos with narration
@@ -117,4 +117,4 @@ From the guide editor you can:
   - Product walkthroughs
   - Internal knowledge sharing
 
-**StepLore turns your everyday work into polished documentation — automatically.**
+**Steplore turns your everyday work into polished documentation — automatically.**
