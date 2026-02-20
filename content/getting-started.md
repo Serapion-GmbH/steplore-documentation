@@ -4,8 +4,6 @@ metaTitle: "Getting Started with Steplore"
 metaDescription: "Quick start guide to begin using Steplore"
 ---
 
-# Getting Started with Steplore
-
 Create step-by-step guides and videos automatically — just by doing your work.
 
 Steplore helps you turn any workflow into instant documentation. No writing, no screenshots, no video editing. Simply record your actions, and Steplore takes care of the rest.
