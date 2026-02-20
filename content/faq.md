@@ -1,20 +1,20 @@
 ---
 title: "FAQ"
-metaTitle: "Frequently Asked Questions - StepLore"
-metaDescription: "Common questions and answers about StepLore"
+metaTitle: "Frequently Asked Questions - Steplore"
+metaDescription: "Common questions and answers about Steplore"
 ---
 
-# StepLore – Frequently Asked Questions (FAQ)
+# Steplore – Frequently Asked Questions (FAQ)
 
-This FAQ is intended for official public communication and provides both functional and technical clarity about how StepLore works.
+This FAQ is intended for official public communication and provides both functional and technical clarity about how Steplore works.
 
 ---
 
 # General
 
-### What is StepLore?
+### What is Steplore?
 
-StepLore is a Chrome browser extension that records real browser workflows and automatically converts them into structured documentation.
+Steplore is a Chrome browser extension that records real browser workflows and automatically converts them into structured documentation.
 
 It generates:
 
@@ -23,13 +23,13 @@ It generates:
 - AI-written titles and descriptions  
 - Optional AI-generated videos with voice-over narration  
 
-StepLore transforms execution into reusable knowledge.
+Steplore transforms execution into reusable knowledge.
 
 ---
 
-### Who is StepLore built for?
+### Who is Steplore built for?
 
-StepLore is designed for:
+Steplore is designed for:
 
 - Product Teams  
 - Support Teams  
@@ -42,7 +42,7 @@ It is especially valuable for organizations working with web-based products that
 
 ---
 
-### What problem does StepLore solve?
+### What problem does Steplore solve?
 
 Traditional documentation requires:
 
@@ -54,28 +54,28 @@ Traditional documentation requires:
 
 This often takes 2–4 hours per guide.
 
-StepLore reduces that process to minutes by automating capture and content generation.
+Steplore reduces that process to minutes by automating capture and content generation.
 
 ---
 
 # How It Works
 
-### How does StepLore recording work?
+### How does Steplore recording work?
 
 1. Install the Chrome extension  
-2. Click the StepLore icon  
+2. Click the Steplore icon  
 3. Enter a short description of your guide  
 4. Click **Start Recording**  
 5. Perform your workflow  
 6. Click **Stop**
 
-StepLore then processes the session and generates a complete guide automatically.
+Steplore then processes the session and generates a complete guide automatically.
 
 ---
 
-### What does StepLore capture?
+### What does Steplore capture?
 
-During an active recording session, StepLore captures:
+During an active recording session, Steplore captures:
 
 - Click interactions  
 - Navigation changes  
@@ -86,7 +86,7 @@ Recording only happens after explicit user initiation.
 
 ---
 
-### Does StepLore record continuously in the background?
+### Does Steplore record continuously in the background?
 
 No.
 
@@ -98,7 +98,7 @@ Recording starts only when the user clicks **Start Recording** and stops immedia
 
 ### What is automatically generated?
 
-After recording, StepLore generates:
+After recording, Steplore generates:
 
 - Structured step sequence  
 - Step titles  
@@ -125,11 +125,11 @@ Advanced editing features are available in Premium tiers.
 
 ---
 
-### Does StepLore generate videos?
+### Does Steplore generate videos?
 
 Yes.
 
-StepLore can automatically generate a walkthrough video with AI narration based on the structured steps of your guide.
+Steplore can automatically generate a walkthrough video with AI narration based on the structured steps of your guide.
 
 This removes the need for separate screen recording and video editing tools.
 
@@ -179,7 +179,7 @@ Premium features include:
 
 ### What permissions does the extension require?
 
-StepLore requires:
+Steplore requires:
 
 - Access to active browser tabs (to capture workflows)
 - Screenshot capability (to generate step visuals)
@@ -190,7 +190,7 @@ Permissions are used only during active recording sessions.
 
 ### Is user data secure?
 
-Recorded workflows are securely processed and stored within StepLore infrastructure.
+Recorded workflows are securely processed and stored within Steplore infrastructure.
 
 Recording is session-based and user-initiated.
 
@@ -200,21 +200,21 @@ Recording is session-based and user-initiated.
 
 Organizations should follow their internal security policies when documenting sensitive systems.
 
-StepLore captures visible UI content during recording sessions.
+Steplore captures visible UI content during recording sessions.
 
 ---
 
 # Technical
 
-### Does StepLore work outside the browser?
+### Does Steplore work outside the browser?
 
 No.
 
-StepLore currently works within browser-based applications via the Chrome extension.
+Steplore currently works within browser-based applications via the Chrome extension.
 
 ---
 
-### Does StepLore support team collaboration?
+### Does Steplore support team collaboration?
 
 Yes (Enterprise tiers).
 
@@ -226,7 +226,7 @@ Team workspaces allow:
 
 ---
 
-### Can StepLore integrate with other tools?
+### Can Steplore integrate with other tools?
 
 Enterprise tiers include integrations with platforms such as:
 
@@ -238,7 +238,7 @@ Enterprise tiers include integrations with platforms such as:
 
 # Business Impact
 
-### How much time can StepLore save?
+### How much time can Steplore save?
 
 Based on user validation, documentation time is reduced from hours to minutes.
 
@@ -246,9 +246,9 @@ The exact time savings depend on workflow complexity.
 
 ---
 
-### What makes StepLore different?
+### What makes Steplore different?
 
-Unlike standard screen recording tools, StepLore:
+Unlike standard screen recording tools, Steplore:
 
 - Structures documentation automatically  
 - Generates written steps using AI  
@@ -261,7 +261,7 @@ It is not just a recording tool — it is a documentation automation platform.
 
 # Summary
 
-StepLore enables teams to:
+Steplore enables teams to:
 
 - Record once  
 - Generate instantly  
