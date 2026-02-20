@@ -101,7 +101,6 @@ From the guide editor you can:
 - Reorder or delete steps
 - Preview the generated video
 - Copy a shareable link
-- Export documentation (PDF & advanced editing available in Premium)
 
 ---
 
