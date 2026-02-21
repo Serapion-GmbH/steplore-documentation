@@ -271,6 +271,3 @@ Steplore enables teams to:
 
 For additional questions, contact support or visit our website.
 
----
-
-**Note for contributors:** Add new questions under the appropriate category. Use the same format with question headers (###) followed by placeholder content in brackets.
