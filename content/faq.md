@@ -6,7 +6,8 @@ metaDescription: "Common questions and answers about Steplore"
 
 # Steplore – Frequently Asked Questions (FAQ)
 
-This FAQ is intended for official public communication and provides both functional and technical clarity about how Steplore works.
+This FAQ is intended for official public communication and provides both functional and technical clarity about how
+Steplore works.
 
 ---
 
@@ -14,14 +15,15 @@ This FAQ is intended for official public communication and provides both functio
 
 ### What is Steplore?
 
-Steplore is a Chrome browser extension that records real browser workflows and automatically converts them into structured documentation.
+Steplore is a Chrome browser extension that records real browser workflows and automatically converts them into
+structured documentation.
 
 It generates:
 
-- Step-by-step guides  
-- Screenshots per action  
-- AI-written titles and descriptions  
-- Optional AI-generated videos with voice-over narration  
+- Step-by-step guides
+- Screenshots per action
+- AI-written titles and descriptions
+- Optional AI-generated videos with voice-over narration
 
 Steplore transforms execution into reusable knowledge.
 
@@ -31,14 +33,15 @@ Steplore transforms execution into reusable knowledge.
 
 Steplore is designed for:
 
-- Product Teams  
-- Support Teams  
-- Operations  
-- HR & Training  
-- QA Engineers  
-- Technical Writers  
+- Product Teams
+- Support Teams
+- Operations
+- HR & Training
+- QA Engineers
+- Technical Writers
 
-It is especially valuable for organizations working with web-based products that require clear, repeatable documentation.
+It is especially valuable for organizations working with web-based products that require clear, repeatable
+documentation.
 
 ---
 
@@ -46,11 +49,11 @@ It is especially valuable for organizations working with web-based products that
 
 Traditional documentation requires:
 
-- Manual screenshots  
-- Screen recording tools  
-- Video editing  
-- Writing structured descriptions  
-- Formatting and organizing content  
+- Manual screenshots
+- Screen recording tools
+- Video editing
+- Writing structured descriptions
+- Formatting and organizing content
 
 This often takes 2–4 hours per guide.
 
@@ -62,11 +65,11 @@ Steplore reduces that process to minutes by automating capture and content gener
 
 ### How does Steplore recording work?
 
-1. Install the Chrome extension  
-2. Click the Steplore icon  
-3. Enter a short description of your guide  
-4. Click **Start Recording**  
-5. Perform your workflow  
+1. Install the Chrome extension
+2. Click the Steplore icon
+3. Enter a short description of your guide
+4. Click **Start Recording**
+5. Perform your workflow
 6. Click **Stop**
 
 Steplore then processes the session and generates a complete guide automatically.
@@ -77,10 +80,10 @@ Steplore then processes the session and generates a complete guide automatically
 
 During an active recording session, Steplore captures:
 
-- Click interactions  
-- Navigation changes  
-- UI state transitions  
-- Screenshots of the browser view  
+- Click interactions
+- Navigation changes
+- UI state transitions
+- Screenshots of the browser view
 
 Recording only happens after explicit user initiation.
 
@@ -90,7 +93,8 @@ Recording only happens after explicit user initiation.
 
 No.
 
-Recording starts only when the user clicks **Start Recording** and stops immediately when **Stop** is clicked. There is no passive or background recording.
+Recording starts only when the user clicks **Start Recording** and stops immediately when **Stop** is clicked. There is
+no passive or background recording.
 
 ---
 
@@ -100,11 +104,11 @@ Recording starts only when the user clicks **Start Recording** and stops immedia
 
 After recording, Steplore generates:
 
-- Structured step sequence  
-- Step titles  
-- Step descriptions  
-- Screenshots per step  
-- Optional AI-narrated video  
+- Structured step sequence
+- Step titles
+- Step descriptions
+- Screenshots per step
+- Optional AI-narrated video
 
 All based on the recorded workflow.
 
@@ -116,10 +120,10 @@ Yes.
 
 Users can:
 
-- Edit step titles and descriptions  
-- Reorder steps  
-- Add or remove steps  
-- Adjust guide title  
+- Edit step titles and descriptions
+- Reorder steps
+- Add or remove steps
+- Adjust guide title
 
 Advanced editing features are available in Premium tiers.
 
@@ -145,6 +149,14 @@ Export options depend on your plan:
 
 ---
 
+### Does Steplore support multiple languages?
+
+Currently, Steplore's AI narration and step descriptions are primarily in English. Multi-language support is on our
+roadmap.
+However, you can manually edit the generated text in any language before creating your final output.
+
+---
+
 # Plans & Pricing
 
 ### Is there a free plan?
@@ -153,10 +165,10 @@ Yes.
 
 The Free plan includes:
 
-- Up to 3 guides  
-- AI-generated steps and descriptions  
-- Automatic video generation  
-- Watermark applied  
+- Up to 3 guides
+- AI-generated steps and descriptions
+- Automatic video generation
+- Watermark applied
 
 ---
 
@@ -164,14 +176,14 @@ The Free plan includes:
 
 Premium features include:
 
-- Unlimited guides  
-- Watermark removal  
-- PDF export  
-- Advanced editing suite  
-- Shared team workspace  
-- Analytics dashboard  
-- SSO & enterprise security controls  
-- Integrations (e.g., Zendesk, Intercom)  
+- Unlimited guides
+- Watermark removal
+- PDF export
+- Advanced editing suite
+- Shared team workspace
+- Analytics dashboard
+- SSO & enterprise security controls
+- Integrations (e.g., Zendesk, Intercom)
 
 ---
 
@@ -204,6 +216,17 @@ Steplore captures visible UI content during recording sessions.
 
 ---
 
+### Can I delete my guides and data?
+
+Yes. You have full control over your content:
+
+* Delete individual guides at any time
+* Guides are permanently removed from Steplore servers
+* You can request complete account deletion by following actions in the user profile section
+* All associated data will be deleted immediately
+
+---
+
 # Technical
 
 ### Does Steplore work outside the browser?
@@ -214,15 +237,44 @@ Steplore currently works within browser-based applications via the Chrome extens
 
 ---
 
+# Troubleshooting
+
+### Why isn't my recording capturing properly?
+
+If recording fails:
+
+* Ensure Steplore has permission to record your screen and access browser tabs
+* Update Chrome to the latest version
+* Restart the extension
+* Note: Some protected content (banking sites, DRM) may block recording
+* Close other screen recording tools that might conflict
+
+### The generated documentation looks incorrect. What should I do?
+
+* Use the editing tools to refine AI-generated descriptions
+* Record at a moderate pace (too fast may cause AI to miss details)
+* Re-record specific steps without redoing the entire workflow
+* Contact support@step-lore.com if issues persist
+
+### How do I report a bug?
+
+Contact info@step-lore.com with:
+
+* Description of the issue
+* Screenshots or screen recordings of the problem
+* Your browser version and operating system
+
+---
+
 ### Does Steplore support team collaboration?
 
 Yes (Enterprise tiers).
 
 Team workspaces allow:
 
-- Shared guides  
-- Centralized documentation  
-- Analytics and visibility  
+- Shared guides
+- Centralized documentation
+- Analytics and visibility
 
 ---
 
@@ -230,9 +282,9 @@ Team workspaces allow:
 
 Enterprise tiers include integrations with platforms such as:
 
-- Zendesk  
-- Intercom  
-- Additional integrations planned  
+- Zendesk
+- Intercom
+- Additional integrations planned
 
 ---
 
@@ -250,10 +302,10 @@ The exact time savings depend on workflow complexity.
 
 Unlike standard screen recording tools, Steplore:
 
-- Structures documentation automatically  
-- Generates written steps using AI  
-- Creates narrated walkthrough videos  
-- Ensures consistent formatting across teams  
+- Structures documentation automatically
+- Generates written steps using AI
+- Creates narrated walkthrough videos
+- Ensures consistent formatting across teams
 
 It is not just a recording tool — it is a documentation automation platform.
 
@@ -263,11 +315,11 @@ It is not just a recording tool — it is a documentation automation platform.
 
 Steplore enables teams to:
 
-- Record once  
-- Generate instantly  
-- Share professionally  
-- Standardize documentation  
-- Scale knowledge across the organization  
+- Record once
+- Generate instantly
+- Share professionally
+- Standardize documentation
+- Scale knowledge across the organization
 
 For additional questions, contact support or visit our website.
 
