@@ -254,7 +254,7 @@ If recording fails:
 * Use the editing tools to refine AI-generated descriptions
 * Record at a moderate pace (too fast may cause AI to miss details)
 * Re-record specific steps without redoing the entire workflow
-* Contact support@step-lore.com if issues persist
+* Contact info@step-lore.com if issues persist
 
 ### How do I report a bug?
 
